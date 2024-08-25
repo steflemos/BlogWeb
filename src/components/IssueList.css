@@ -1,0 +1,19 @@
+.issue-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px;
+  }
+  
+  .issue-item {
+    margin: 10px 0;
+  }
+  
+  .issue-item a {
+    color: #61dafb;
+    text-decoration: none;
+  }
+  
+  .issue-item a:hover {
+    text-decoration: underline;
+  }
+  
